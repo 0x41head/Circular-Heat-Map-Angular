@@ -4,9 +4,8 @@
 
 ### Complete conversion of the following code from :
 
-- https://stackoverflow.com/questions/43314115/d3-circular-heat-chart-increase-segment-height-on-mouseover
-- https://github.com/peterrcook/d3-circularheat
-
+- https://github.com/peterrcook/d3-circularheat 
+- and included the hover from https://stackoverflow.com/questions/43314115/d3-circular-heat-chart-increase-segment-height-on-mouseover
 
 ## Online demo:
 
