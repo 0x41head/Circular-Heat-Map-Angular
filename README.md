@@ -8,6 +8,7 @@
 - https://github.com/peterrcook/d3-circularheat
 
 
-#### Online demo:
-https://0x41head.github.io/Circular-Heat-Map-Angular/
+## Online demo:
+
+[Circular Heat Map](https://0x41head.github.io/Circular-Heat-Map-Angular/)
  
